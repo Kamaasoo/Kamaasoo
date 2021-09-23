@@ -1,16 +1,13 @@
-### Hi there 👋
+Hello outsider.
 
-<!--
-**Kamaasoo/Kamaasoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I’m currently working: A simple game in Python and a currency quote code..
 
-Here are some ideas to get you started:
+- I’m currently learning: Python!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- How to reach me: My discord is 神Kmsz_#5339
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamaasoo&show_icons=true&theme=midnight-purple)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamaasoo&show_icons=true&theme=midnight-purple)](https://github.com/Kamaasoo/github-readme-stats)
+
+
+
