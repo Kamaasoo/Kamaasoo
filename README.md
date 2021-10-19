@@ -1,8 +1,8 @@
 Hello outsider.
 
-- I’m currently making a RPG text with Python.
+- I’m currently making a RPG
 
-- I’m currently learning: Python POO and Elixir
+- I’m currently learning: C#
 
 - How to reach me: My discord is IO.puts("神Kamaso")#5339
 
