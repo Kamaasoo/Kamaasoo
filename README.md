@@ -2,7 +2,7 @@ Hello outsider!
 
 - I’m currently : Studing, learning, creating Malwares and programming.
 
-- I’m currently learning: Computer Networks, Lua and C#, Cmd and Windows architeture.
+- I’m currently learning: Computer Networks, Lua, C#, Cmd and Windows architeture.
 
 - How to reach me: My discord is IO.puts("神Kamaso")#5339
 -   Or you can send me a email! send me a message: kkamasooz@gmail.com
