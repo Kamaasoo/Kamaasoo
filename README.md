@@ -1,7 +1,7 @@
 <h1>Hello Outsider</h1>
 
 
-> - Malware Creator, developer, student of IT and SI.
+> - Linux enthusiast, fascinated by physics.
 > - This is my Github. ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <h2> My programming languages </h2>
