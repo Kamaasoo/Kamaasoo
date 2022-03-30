@@ -2,7 +2,7 @@
 
 
 > - Linux enthusiast, fascinated by physics.
-> - This is my Github. ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+> - This is my Github. ![GitHub](https://img.shields.io/badge/Kmszw-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <h2> My programming languages: </h2>
 
